@@ -10,7 +10,7 @@ A custom audio EQ plugin built with [JUCE](https://juce.com) and CMake.
 Supports building as VST3, AU, and standalone (depending on your platform).
 
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/93061186/454814960-0066d071-6ecf-4eea-a9af-21fa915d239f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T101157Z&X-Amz-Expires=300&X-Amz-Signature=2df2b7612a241e6a84e1a8d583538349354ef9bc55f0ae9a25da29ff19a8d778&X-Amz-SignedHeaders=host" alt="myEQ UI Screenshot" width="600" />
+  <img src="https://github.com/user-attachments/assets/0066d071-6ecf-4eea-a9af-21fa915d239f" alt="myEQ UI Screenshot" width="600" />
 </p>
 
 ## 🚀 Features
